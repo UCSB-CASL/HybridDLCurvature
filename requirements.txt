@@ -1,6 +1,5 @@
-# install with `pip install -r requirements.txt` if you create the environment with python 3.6.9 as standard point.
-# if you create the envirnoment out of the requirements file, make sure to reinstall tensorflow with pip.
-# conda tensorflow version 2 is 4 times slower than the version installed with pip.
+# install with `pip install -r requirements.txt` if you create the environment with python 3.6.9 as starting point.
+# conda tensorflow version 2 is way slower than the version installed with pip.
 python==3.6.9
 h5py==2.9.0
 Keras-Applications==1.0.8
