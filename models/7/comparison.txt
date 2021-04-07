@@ -1,0 +1,3 @@
+  Method            | Mean Absolute Error   | Max Absolute Error    | Mean Square Error
+* Neural model      |     1.8156924770e-01  |     7.2426493610e+00  |     8.2914620004e-02
+* Numerical method  |     4.5113325862e+00  |     2.9265523200e+01  |     5.1417574048e+01
