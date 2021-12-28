@@ -1,4 +1,4 @@
-# Level-Set Curvature Neural Networks: A Hybrid Approach
+# A Hybrid Inference System for Improved Curvature Estimation in the Level-Set Method Using Machine Learning
 
 This is the accompanying repository for our *hybrid inference system* that approximates mean curvature in the level-set method.
 The neural networks here available were trained on the negative curvature spectrum, with samples from two-dimensional circular 
@@ -13,4 +13,4 @@ You'll find in each folder:
 - Two plots comparing the numerical (`scatterNumerics.png`) and the neural (`scatterReinit.png`) approximations 
 to mean curvature for (train + test + validation) samples obtained with level-set (10-iteration, PDE) reinitialization.
 
-Feel free to forward your questions to [lal@cs.ucsb.edu](mailto:lal@cs.ucsb.edu).
+Feel free to forward your questions to [this email](mailto:lal@cs.ucsb.edu).
